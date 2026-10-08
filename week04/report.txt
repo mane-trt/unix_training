@@ -1,0 +1,14 @@
+4
+
+Files containing authentication failures:
+logs/auth.log
+
+Users with LOGIN events:
+user=Emma
+user=Alice
+user=Bob
+user=Charlie
+user=David
+
+Number of warnings:
+3

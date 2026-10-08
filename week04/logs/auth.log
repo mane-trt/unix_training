@@ -1,0 +1,6 @@
+INFO LOGIN user=Alice
+ERROR LOGIN FAILED user=Bob
+INFO LOGIN user=Charlie
+WARNING Too many login attempts
+ERROR LOGIN FAILED user=David
+INFO LOGOUT user=Alice

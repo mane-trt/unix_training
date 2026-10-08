@@ -1,0 +1,5 @@
+INFO Server started
+WARNING High CPU usage
+ERROR Server connection failed
+INFO LOGIN user=Emma
+INFO LOGOUT user=Emma

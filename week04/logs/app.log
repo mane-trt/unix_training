@@ -1,0 +1,5 @@
+INFO Application started
+INFO User Alice logged in
+WARNING Slow response detected
+ERROR Database connection failed
+INFO User Bob logged out
